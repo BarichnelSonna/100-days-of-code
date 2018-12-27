@@ -4,7 +4,17 @@
 ### *I will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
-June 25th, 2016. [December 27th, 2018.]
+December 27th, 2018.
+
+Day 1! Goals:
+-build attractive and highly secured websites.
+-land a job as web Dev. 
+-get full stack certified @freeCodeCamp
+ 
+
+Languages: Python, PHP, CSS, JavaScript, *couple frameworks*
+
+esskeetitt!
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
